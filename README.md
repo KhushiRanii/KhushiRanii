@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **khushi.rani1611@gmail.com**
 <img align="right" alt= "Coding" width= "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-  About : **Hello everyone! My name is Khushi Rani, and I am currently pursuing engineering in the CSE (Computer Science Engineering). I am passionate about web development, and backend development. With proficiency in HTML, CSS, JavaScript, and expertise in building android applications using Java, I consider myself a dedicated Software developer. I have experience in developing interactive and user-friendly websites and applications. Through my engineering studies, I have gained a strong foundation in DSA,DBMS,OS and Programming domains. I am enthusiastic about leveraging my skills and knowledge to contribute to innovative projects and collaborate with fellow developers.**
+
+Hello everyone! My name is Khushi Rani, and I am currently pursuing engineering in the CSE (Computer Science Engineering). I am passionate about web development, android development and backend development. With proficiency in HTML, CSS, JavaScript, and expertise in building android applications using Java, I consider myself a dedicated Software developer. I have experience in developing interactive and user-friendly websites and applications. Through my engineering studies, I have gained a strong foundation in DSA, DBMS, OS and Programming domains. I am enthusiastic about leveraging my skills and knowledge to contribute to innovative projects and collaborate with fellow developers.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
